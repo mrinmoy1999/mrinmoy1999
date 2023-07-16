@@ -10,6 +10,7 @@
 - 📫 How to reach me **mrinmoyroy9991@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
+- <p skill p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
